@@ -1,5 +1,11 @@
 # python-full-stack-devops
 
+
+
+
+
+
+
 <!-- Data Base -->
 <!-- CREATE DATABASE IF NOT EXISTS dev;
 
